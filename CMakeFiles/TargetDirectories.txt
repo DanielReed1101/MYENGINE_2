@@ -1,0 +1,5 @@
+D:/Uni 22-23/Game Engine Programming/Week 1/Game Engine Project/build/CMakeFiles/rend.dir
+D:/Uni 22-23/Game Engine Programming/Week 1/Game Engine Project/build/CMakeFiles/KEngine.dir
+D:/Uni 22-23/Game Engine Programming/Week 1/Game Engine Project/build/CMakeFiles/game.dir
+D:/Uni 22-23/Game Engine Programming/Week 1/Game Engine Project/build/CMakeFiles/ALL_BUILD.dir
+D:/Uni 22-23/Game Engine Programming/Week 1/Game Engine Project/build/CMakeFiles/ZERO_CHECK.dir

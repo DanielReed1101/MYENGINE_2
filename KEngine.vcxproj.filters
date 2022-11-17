@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\KEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\src\KEngine\Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Uni 22-23\Game Engine Programming\Week 1\Game Engine Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BFAB0A1C-5840-35C2-B7A6-CB39708F046D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{295A6D7E-7067-3E82-91EF-8093B9B33042}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
